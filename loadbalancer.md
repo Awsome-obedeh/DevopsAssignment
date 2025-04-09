@@ -1,6 +1,6 @@
 # Load balancer for Elite corporation
 
-# Steps taken to acheive configuring a load balancer to balnce traffic between two web servers
+# Steps taken to achieve configuring a load balancer to balnce traffic between two web servers
 
 - **Create an instance:** I had to create an ubuntu instance -
 
